@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include <unistd.h>
+#include "main.h"
 /**
  * main - is the main program strating point
  *
@@ -7,6 +8,6 @@
 
 int main(void)
 {
-	printf("_putchar\n");
+	_putchar();
 	return (0);
 }
