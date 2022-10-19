@@ -1,5 +1,10 @@
-
 #include "main.h"
+
+/**
+ * main - the starting point
+ *
+ * Return: after program is done it return
+ */
 
 int main(void)
 
