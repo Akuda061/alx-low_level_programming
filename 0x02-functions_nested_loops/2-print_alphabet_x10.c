@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_alphabet_10x - the starting point
+ * print_alphabet_x10 - the starting point
  *
  * Return: after program is done it return
  */
